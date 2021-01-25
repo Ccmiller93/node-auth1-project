@@ -5,7 +5,7 @@
 Use `Node.js`, `Express` and `Knex` to build an API that provides **Register** and **Login** functionality using `SQLite` to store _User_ information. Make sure the password is not stored as plain text.
 
 ## Instructions
-
+ 
 ### Task 1: Set Up The Project With Git
 
 Follow these steps to set up and work on your project:
